@@ -3,4 +3,4 @@ using Common;
 
 Console.WriteLine("Hello, World!");
 var dsd = new Class1();
-dsd.Version1 = 1;
+dsd.Version3 = 1;

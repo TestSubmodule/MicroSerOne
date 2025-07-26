@@ -1,0 +1,3 @@
+[submodule "AuthApi/Shared"]
+	path = AuthApi/Shared
+	url = https://github.com/TestSubmodule/SubModule.git
